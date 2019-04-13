@@ -1,0 +1,4 @@
+from header.png from the original
+res=5271x2327
+from header.jpg from the original
+res=1920x1080
