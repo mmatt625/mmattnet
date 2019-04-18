@@ -1,4 +1,4 @@
-# mmatt's edited version of Da-website remaster
+# Semue Website based off of Da-website remaster
 
 A simplistic website. Free to use as long as Da532 credited. 😎
 
