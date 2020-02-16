@@ -1,5 +1,5 @@
 <?php
-$secret_key = "pogfishpoggersfishgposadf;asdklfjasdlkfjsdlkfjsdljkfjklfsdljkfsdkljfsdjklsdfjklsdfjklsdfjklfdsjkldaeskujlfdahjk"; //Set this as your secret key, to prevent others uploading to your server.
+$secret_key = "pogfishpoggersdaf"; //Set this as your secret key, to prevent others uploading to your server.
 $sharexdir = "pogfish.com"; //This is your file dir, also the link..
 $domain_url = 'https://mmatt.net/';
 $lengthofstring = 64; //Length of the file name
